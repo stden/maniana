@@ -1,0 +1,97 @@
+MANIANA LICENSE
+---------------
+
+Maniana, Maniana Todo List and Maniana Task List are Trademarks of Tal Dayan.
+
+Source code files (Java, XML, HTML, CSS, etc) are licensed under Apache 2.0.
+
+Binary assets and resource files are licensed under Apache 2.0 except for the ones listed below:
+
+Fonts
+-----
+Damion font
+assets/fonts/Damion/*
+SIL OPEN FONT LICENSE Version 1.1
+
+Pompiere font
+asserts/fonts/Pompiere/*
+SIL OPEN FONT LICENSE Version 1.1
+Font file modified (using FontForge) to fix the U+FEFF problem described in answer 2 here:
+http://tinyurl.com/7x9qbxt
+
+Vavont font
+assets/fonts/Vavont/*
+GPL
+Font file modified (using FontForge) to fix the U+FEFF problem described in answer 2 here:
+http://tinyurl.com/7x9qbxt
+
+Icons
+----- 
+App icon
+app_icon.png
+GNU/GPL
+http://findicons.com/icon/17187/next?id=388709
+
+Page Icon Set 1
+button_*1.png
+http://findicons.com/pack/2456/hand_drawn_web_icons
+Hand Drawn Web Icons
+
+Page Icon Set 2
+button_*2.png
+http://findicons.com/pack/1671/simplicio
+simplicio
+
+Page Icon Set 3
+button_*3.png
+http://findicons.com/pack/85/kids
+Kids
+
+Page Icon Set 4,5
+button_*4.png
+button_*4.png
+Jorge Montes
+
+Move item right/left Arrow icons
+arrow_left.png
+arrow_right.png
+http://findicons.com/icon/69012/right
+Creative Commons Attribution Share Alike (by-sa)
+
+Lock icon (displayed on the right of locked tasks)
+arrow_lock.png
+http://findicons.com/icon/69034/locked
+Creative Commons Attribution Share Alike (by-sa) 
+http://olawolska.com/
+
+Background Images
+-----------------
+Page right and left background images
+page_bg_right.png
+page_bg_left.png 
+TBD
+
+List Widget background image
+list_widget_background.png
+From http://markarmstrongillustration.com/2011/04/25/look-out-supe-thats-taxregonite/
+Cropped and desaturated.
+TBD
+
+List Widget background stain
+(part of list_widget_background.png)
+From http://www.designshard.com/freebies/20-free-original-hi-res-ink-stained-paper-textures/
+Cropped, color adjusted, superimposed
+TBD
+
+Sound clips
+-----------------
+applause_normal.mp3
+http://soundbible.com/1260-Auditorium-Applause.html
+Public Domain
+By Thore
+
+applause_special.mp3
+http://soundbible.com/989-10-Second-Applause.html
+Attribution 3.0
+By Mike Koening
+
